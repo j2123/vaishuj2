@@ -1,0 +1,16 @@
+{
+    "name":"j2week",
+    "version":"0.1.2",
+    "main":"calcj2",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/j2123/vaishuj2"
+    },
+    "keywords":[
+        "calcj2","calculator","j2week"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
